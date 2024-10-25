@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created_at": "2024-10-25",
+    "author": "Charles Cordova",
+    "purpose": "Evaluar el comportamiento infantil"
+  },
+  "questions": {
+    "Q1": {
+      "id": "Q1",
+      "category": "Expresión Verbal",
+      "label": "¿Con qué frecuencia tu hijo/a habla en exceso?",
+      "scale": "Likert",
+      "answers": {
+        "A1": {
+          "label": "Nunca",
+          "value": 1
+        },
+        "A2": {
+          "label": "Rara vez",
+          "value": 2
+        },
+        "A3": {
+          "label": "A veces",
+          "value": 3
+        },
+        "A4": {
+          "label": "Siempre",
+          "value": 4
+        }
+      }
+    },
+    "Q2": {
+      "id": "Q2",
+      "category": "Regulación del Comportamiento",
+      "label": "El/La niñ@, ¿Tiene dificultades para jugar o dedicarse tranquilamente a actividades de ocio?",
+      "scale": "Likert",
+      "answers": {
+        "A1": {
+          "label": "Nunca",
+          "value": 1
+        },
+        "A2": {
+          "label": "Rara vez",
+          "value": 2
+        },
+        "A3": {
+          "label": "A veces",
+          "value": 3
+        },
+        "A4": {
+          "label": "Siempre",
+          "value": 4
+        }
+      }
+    },
+    "Q3": {
+      "id": "Q3",
+      "category": "Interacción Social",
+      "label": "El/La niñ@, ¿Invita al padre a jugar o juega solo?",
+      "scale": "Likert",
+      "answers": {
+        "A1": {
+          "label": "Nunca",
+          "value": 1
+        },
+        "A2": {
+          "label": "Rara vez",
+          "value": 2
+        },
+        "A3": {
+          "label": "A veces",
+          "value": 3
+        },
+        "A4": {
+          "label": "Siempre",
+          "value": 4
+        }
+      }
+    },
+    "Q4": {
+      "id": "Q4",
+      "category": "Habilidades Sociales",
+      "label": "El/La niñ@, ¿Tiene dificultades para guardar turno?",
+      "scale": "Likert",
+      "answers": {
+        "A1": {
+          "label": "Nunca",
+          "value": 1
+        },
+        "A2": {
+          "label": "Rara vez",
+          "value": 2
+        },
+        "A3": {
+          "label": "A veces",
+          "value": 3
+        },
+        "A4": {
+          "label": "Siempre",
+          "value": 4
+        }
+      }
+    },
+    "Q5": {
+      "id": "Q5",
+      "category": "Habilidades Sociales",
+      "label": "El/La niñ@ a menudo, ¿Interrumpe o se inmiscuye en las actividades de otros? (p.ej.m se entromete en conversaciones o juegos).",
+      "scale": "Likert",
+      "answers": {
+        "A1": {
+          "label": "Nunca",
+          "value": 1
+        },
+        "A2": {
+          "label": "Rara vez",
+          "value": 2
+        },
+        "A3": {
+          "label": "A veces",
+          "value": 3
+        },
+        "A4": {
+          "label": "Siempre",
+          "value": 4
+        }
+      }
+    }
+  }
+}

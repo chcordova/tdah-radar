@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    background-color: #f3e5f5; /* Light purple background */
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.question label {
+    font-size: 1.2em;
+    color: #6a1b9a; /* Dark purple text */
+}
+
+#submitBtn {
+    background-color: #8e24aa; /* Purple button */
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #6a1b9a; /* Dark purple text */
+}
+
+h1 {
+    color: #6a1b9a; /* Dark purple text */
+    text-align: center;
+}
