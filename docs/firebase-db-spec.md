@@ -44,7 +44,6 @@ A continuación se presenta un ejemplo de la estructura JSON que se encuentra en
         "Casi siempre"
       ]
     }
-    // ...más preguntas
   ]
 }
 ```
